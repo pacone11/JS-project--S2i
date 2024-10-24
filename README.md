@@ -1,6 +1,6 @@
 
 # Minimal Counter App
-This is a basic Counter app which allows the user to increase the number on the display by pressing th '+' button, decreasing it with the '-' button and reset the display with the 'reset' button.
+This is a basic Counter app which allows the user to increase the number on the display by pressing the '+' button, decreasing it with the '-' button and reset the display with the 'reset' button.
 
 
 ## Screenshots
@@ -29,5 +29,4 @@ The application must be developed with JavaScript. The use of jQuery is not allo
 
 
 ## 🔗 Link website 
-https://github.com/pacone11/JS-project--S2i.git
-
+https://app-counter-paoloacone-s2i-jsbasics.netlify.app/
