@@ -5,7 +5,7 @@ This is a basic Counter app which allows the user to increase the number on the 
 
 ## Screenshots
 
-![]()
+![](https://raw.githubusercontent.com/pacone11/JS-project--S2i/refs/heads/main/img/Screenshot%20app.png)
 
 
 ## languages
